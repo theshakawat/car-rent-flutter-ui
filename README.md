@@ -5,10 +5,10 @@ A modern and sleek **Rental Car UI** built with **Flutter**, featuring a clean d
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](home.png)
+![Home Screen](screenshots/home.png)
 
 ### Booking Screen
-![Booking Screen](booking.png)
+![Booking Screen](screenshots/booking.png)
 
 ## ✨ Features
 - 🏠 **Beautiful Home UI** for browsing cars
